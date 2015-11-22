@@ -1,0 +1,10 @@
+{
+  "files": [
+    "web/js/translator.ts",
+    "web/js/ui.ts"
+  ],
+  "compilerOptions": {
+    "outFile": "web/js/app.js",
+    "target": "es5"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "application-name",
+  "version": "1.0.0",
+  "devDependencies": {
+    "jasmine": "2.3.2",
+    "typescript": "1.6.2"
+  }
+}
