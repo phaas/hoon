@@ -146,7 +146,7 @@ var ui;
             div.className = "line";
             tokens.forEach(function (e) {
                 var span = document.createElement("span");
-                span.innerText = e.value;
+                span.textContent = e.value;
                 span.className = "token " + e.type;
                 if (e.hint) {
                     span.title = e.hint;
